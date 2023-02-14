@@ -1,0 +1,29 @@
+::: {.content-visible when-profile="english"}
+---
+title: "Learning German"
+---
+
+## Stimmen
+
+## Live
+
+## Know
+
+## See
+:::
+
+::: {.content-visible when-profile="german"}
+---
+title: "Deutsch Lernen"
+---
+
+## Stimmen
+
+## Leben
+
+## Weisen
+
+## Sehen
+
+
+:::

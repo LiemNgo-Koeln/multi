@@ -1,0 +1,7 @@
+project:
+  title: "My Website"
+  type: website
+  
+profile:
+  group: 
+    - [english, german]

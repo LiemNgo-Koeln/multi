@@ -1,0 +1,26 @@
+project:
+  title: "My Website (German)"
+  output-dir: docs/de
+  
+website:
+  navbar:
+    left:
+      - href: index.qmd        
+        text: Home
+      - href: software.qmd        
+        text: Software
+      - icon: book
+        href: publications.qmd
+        text: Publikationen
+    right:
+      - href: ../de/index.html
+        text: Deutsch
+      - href: ../index.html
+        text: English
+        
+lang: de
+
+format:
+  html:
+    theme: morph
+    toc: true

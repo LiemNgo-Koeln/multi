@@ -1,0 +1,17 @@
+
+::: {.content-visible when-profile="english"}
+
+Urban sustainability transformations \
+Governance networks \
+Digitalization
+:::
+
+::: {.content-visible when-profile="german"}
+
+Forschung zu 
+
+- nachhaltiger Stadtentwicklung
+- Digitalisierung und Nachhaltigkeit
+- Governance-Netzwerken
+
+:::
